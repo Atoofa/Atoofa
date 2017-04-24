@@ -1,6 +1,6 @@
-# Ruby on Rails Demo
+# RUBY ON RAILS DEMO
 
-##IT Entrepreneurship
+## IT ENTERPRENEURSHIP
 
-### Blog Project
+### BLOG Project
 
